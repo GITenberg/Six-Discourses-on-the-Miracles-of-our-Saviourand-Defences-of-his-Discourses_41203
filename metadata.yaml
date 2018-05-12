@@ -1,0 +1,31 @@
+_repo: Six-Discourses-on-the-Miracles-of-our-Saviourand-Defences-of-his-Discourses_41203
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Woolston, Thomas
+    alias: Wolston, Thomas
+    birthdate: 1670
+    deathdate: 1733
+    gutenberg_agent_id: '41033'
+    url: http://www.gutenberg.org/2009/agents/41033
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Woolston
+description: ''
+gutenberg_issued: '2012-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41203'
+  lccn: '75011268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Miracles -- Early works to 1800'
+- !lcsh 'Gibson, Edmund, 1669-1748'
+- !lcsh 'Smalbroke, Richard, 1672-1749'
+title: Six Discourses on the Miracles of Our Saviour, and Defences of His Discourses
+url: http://www.gutenberg.org/ebooks/41203
